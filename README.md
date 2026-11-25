@@ -52,10 +52,12 @@ Every core element of the game revolves around circular geometry and motion:
 
 ---
 
-## Credits & Third-Party Assets
+## Credits, Third-Party Assets & Acknowledgments
 - **Engine:** Unity 6 (`6000.5.9f1`) — Universal Render Pipeline (URP) & TextMeshPro
-- **Environment & Shaders:**
+- **Third-Party Packages & Assets:**
+  - `blockBreaker.unitypackage` (Third-party Unity asset package)
   - *Free Galaxy Background* (Unity Asset Store)
   - *Free Stylized URP Shaders* (Unity Asset Store)
-- **UI & Graphics:** Custom UI Buttons & Sprite Sheets
+  - Custom UI Buttons & Sprite Sheets
 - **Music:** *Inazuma Eleven GO (Anime) - OST 35: Ailes Jumelles* (Inazeli)
+- **AI Assistance:** Acknowledgment to **Claude AI** for development assistance during creation.
